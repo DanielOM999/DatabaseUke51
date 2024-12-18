@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS country_count FROM country;
